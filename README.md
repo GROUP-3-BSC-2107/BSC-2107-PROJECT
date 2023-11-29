@@ -1,9 +1,9 @@
 # BSC-2107-PROJECT
 DATABASE SYSTEMS BSC 2107
 # GROUP III PARTICIPANTS SEMESTERS SEPT/DEC 2023
-BSCNRB587922
-BSCNRB126523
-BSCNRB129923
+BSCNRB587922 Chris Mutunga
+BSCNRB126523 Lewis Ogutu
+BSCNRB129923 Caleb Musyoki
 # OBJECTIVES OF THE DATABASE
 •	Support the company’s diversified businesses by providing a central repository for all operational data.
 •	Enable the company to implement initiatives such as 360-degree customer view and a conglomerate-wide loyalty program.
